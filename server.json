@@ -1,0 +1,60 @@
+{
+  "transactions": [
+    {
+      "id": "1",
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 20000,
+      "createdAt": "2023-11-18T00:42:16.666Z"
+    },
+    {
+      "description": "Desenvolvimento de APP",
+      "price": 10000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2023-11-22T14:21:06.954Z",
+      "id": "KHjRDBY"
+    },
+    {
+      "description": "Criação de Protótipo",
+      "price": 2000,
+      "category": "venda",
+      "type": "income",
+      "createdAt": "2023-11-22T14:23:01.227Z",
+      "id": "3TRvM10"
+    },
+    {
+      "description": "Investimento em Notebook",
+      "price": 5000,
+      "category": "compra",
+      "type": "outcome",
+      "createdAt": "2023-11-22T14:24:50.496Z",
+      "id": "M80dj8b"
+    },
+    {
+      "description": "Desenvolvimento de site Burguer Delivery",
+      "price": 12000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2023-11-22T14:26:28.009Z",
+      "id": "MGqgUaB"
+    },
+    {
+      "description": "Almoço",
+      "price": 40,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-11-22T14:39:39.132Z",
+      "id": "l__gBQU"
+    },
+    {
+      "description": "Desenlvolvimento de Portifolio",
+      "price": 12000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2023-11-23T14:15:49.386Z",
+      "id": "-vIfUOW"
+    }
+  ]
+}
