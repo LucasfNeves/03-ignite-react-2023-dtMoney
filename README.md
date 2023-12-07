@@ -10,6 +10,8 @@ Este projeto, DT3 Money, é uma aplicação desenvolvida para controle de entrad
 - HTML
 - JSON Server
 - React Hook Form
+- Zod
+- Axios
 - Radiix UI
 
 ### Funcionalidades
